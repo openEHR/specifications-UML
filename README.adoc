@@ -1,3 +1,6 @@
 = specifications-UML
 
-Global openEHR UML site (generated)
+Global openEHR UML site (generated). The contents of this site are generated from the MagicDraw 'Software Engineering Portal' tool applied to the global UML file in https://github.com/openEHR/specifications-AA_GLOBAL/tree/master/computable/UML[specifications-AA_GLOBAL/computable/UML]. When a new regeneration is done, the images/logo.png file will have been over-written by the MagicDraw logo. This file alone should be reverted in the Git commit, to allow the original openEHR logo file to remain. 
+
+A commit will result in webhook processing in the normal way, and the changes will arrive in the correct place under specifications.openehr.org.
+
