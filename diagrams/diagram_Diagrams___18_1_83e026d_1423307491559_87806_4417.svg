@@ -11,8 +11,8 @@
         /><stop stop-opacity="1" stop-color="white" offset="100%"
       /></linearGradient
       ><linearGradient x1="28" gradientUnits="userSpaceOnUse" x2="441" y1="73" y2="277" id="linearGradient2" spreadMethod="pad"
-      ><stop stop-opacity="1" stop-color="rgb(255,204,153)" offset="0%"
-        /><stop stop-opacity="1" stop-color="rgb(255,255,218)" offset="100%"
+      ><stop stop-opacity="1" stop-color="white" offset="0%"
+        /><stop stop-opacity="1" stop-color="white" offset="100%"
       /></linearGradient
       ><radialGradient transform="matrix(1.0 0.0 0.03999999910593033 -1.0 0.0 19.964399337768555)" gradientUnits="userSpaceOnUse" r="3.1971" cx="3.434299945831299" id="gradient1" cy="2.9827001094818115" color-interpolation="sRGB" fx="3.434299945831299" fy="2.9827001094818115" spreadMethod="pad"
       ><stop stop-color="white" offset="0%"
