@@ -7,16 +7,16 @@
   /><g
   ><defs id="defs1"
     ><linearGradient x1="147" gradientUnits="userSpaceOnUse" x2="275" y1="250" y2="274" id="linearGradient1" spreadMethod="pad"
-      ><stop stop-opacity="1" stop-color="rgb(255,153,153)" offset="0%"
-        /><stop stop-opacity="1" stop-color="rgb(255,218,218)" offset="100%"
+      ><stop stop-opacity="1" stop-color="rgb(153,204,255)" offset="0%"
+        /><stop stop-opacity="1" stop-color="rgb(218,255,255)" offset="100%"
       /></linearGradient
       ><linearGradient x1="183" gradientUnits="userSpaceOnUse" x2="309" y1="238" y2="256" id="linearGradient2" spreadMethod="pad"
-      ><stop stop-opacity="1" stop-color="rgb(255,153,153)" offset="0%"
-        /><stop stop-opacity="1" stop-color="rgb(255,218,218)" offset="100%"
+      ><stop stop-opacity="1" stop-color="rgb(153,204,255)" offset="0%"
+        /><stop stop-opacity="1" stop-color="rgb(218,255,255)" offset="100%"
       /></linearGradient
       ><linearGradient x1="322" gradientUnits="userSpaceOnUse" x2="437" y1="245" y2="278" id="linearGradient3" spreadMethod="pad"
-      ><stop stop-opacity="1" stop-color="rgb(255,153,153)" offset="0%"
-        /><stop stop-opacity="1" stop-color="rgb(255,218,218)" offset="100%"
+      ><stop stop-opacity="1" stop-color="rgb(153,204,255)" offset="0%"
+        /><stop stop-opacity="1" stop-color="rgb(218,255,255)" offset="100%"
       /></linearGradient
       ><linearGradient x1="252" gradientUnits="userSpaceOnUse" x2="363" y1="105" y2="129" id="linearGradient4" spreadMethod="pad"
       ><stop stop-opacity="1" stop-color="white" offset="0%"
