@@ -26,7 +26,7 @@
       ><stop stop-opacity="1" stop-color="rgb(229,234,255)" offset="0%"
         /><stop stop-opacity="1" stop-color="white" offset="100%"
       /></linearGradient
-      ><linearGradient x1="191" gradientUnits="userSpaceOnUse" x2="431" y1="296" y2="390" id="linearGradient6" spreadMethod="pad"
+      ><linearGradient x1="191" gradientUnits="userSpaceOnUse" x2="431" y1="296" y2="369" id="linearGradient6" spreadMethod="pad"
       ><stop stop-opacity="1" stop-color="rgb(255,204,255)" offset="0%"
         /><stop stop-opacity="1" stop-color="white" offset="100%"
       /></linearGradient
@@ -239,8 +239,8 @@
       /><polygon fill="none" clip-path="url(#clipPath1)" points=" 386 263 382 256 378 263" stroke="silver"
       /><line clip-path="url(#clipPath1)" fill="none" x1="382" x2="382" y1="263" y2="279" stroke="silver"
       /><line clip-path="url(#clipPath1)" fill="none" x1="282" x2="537" y1="279" y2="279" stroke="silver"
-      /><rect x="191" y="296" clip-path="url(#clipPath1)" fill="url(#linearGradient6)" width="240" height="94" stroke="none"
-      /><rect x="191" y="296" clip-path="url(#clipPath1)" fill="none" width="240" height="94" stroke="rgb(153,121,92)"
+      /><rect x="191" y="296" clip-path="url(#clipPath1)" fill="url(#linearGradient6)" width="240" height="73" stroke="none"
+      /><rect x="191" y="296" clip-path="url(#clipPath1)" fill="none" width="240" height="73" stroke="rgb(153,121,92)"
       /><line clip-path="url(#clipPath1)" fill="none" x1="191" x2="431" y1="314" y2="314" stroke="rgb(153,121,92)"
       /><path fill="gray" d="M306.5156 361.4419 L306.7031 360.5356 L307.6094 360.5356 L307.4219 361.4419 L306.5156 361.4419 ZM309.5156 361.4419 L309.7031 360.5356 L310.6094 360.5356 L310.4219 361.4419 L309.5156 361.4419 ZM312.5156 361.4419 L312.7031 360.5356 L313.6094 360.5356 L313.4219 361.4419 L312.5156 361.4419 Z" clip-path="url(#clipPath1)" stroke="none"
       /><path fill="black" d="M196.75 350.0522 L196.75 347.8804 L194.6094 347.8804 L194.6094 346.9897 L196.75 346.9897 L196.75 344.8335 L197.6719 344.8335 L197.6719 346.9897 L199.8125 346.9897 L199.8125 347.8804 L197.6719 347.8804 L197.6719 350.0522 L196.75 350.0522 Z" clip-path="url(#clipPath1)" stroke="none"
