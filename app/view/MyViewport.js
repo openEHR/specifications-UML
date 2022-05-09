@@ -803,7 +803,7 @@ function createHelpButtonPanel()
                             });
     }
 
-    var commentEnabled = "NA";
+    var commentEnabled = "";
 
     if(commentEnabled !== "" && commentEnabled!== "NA")
     {
@@ -910,7 +910,7 @@ function createCommentPanel()
 
                                                             $.ajax({
                                                                        type: "GET",
-                                                                       url: "NA",
+                                                                       url: "",
                                                                        data: result[0],
                                                                        success: function()
                                                                        {
